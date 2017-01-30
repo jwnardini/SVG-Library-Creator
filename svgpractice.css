@@ -4,5 +4,13 @@
   height: 10em;
   stroke-width: 0;
   stroke: currentColor;
-  fill: currentColor;
+  fill: red;
+}
+
+.icon:hover {
+  fill: blue;
+}
+
+.film {
+  fill: green;
 }
