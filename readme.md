@@ -46,3 +46,5 @@ becomes:
   </use>
   <use class="check" xlink:href="#clipboard-check"></use>
 </svg>`
+
+[See it on codepen.io](http://codepen.io/jwnardini/pen/VPQroE)
