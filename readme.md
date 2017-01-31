@@ -19,8 +19,7 @@ Want to add hoverstate to specific path? You can't! You can, however, have more 
 <path d="M7 13.414l-3.207-3.707 0.914-0.914 2.293 1.793 4.293-3.793 0.914 0.914z"></path>
   </symbol>
   </defs>
-</svg>
-  `
+</svg>`
 
 becomes:    
 
