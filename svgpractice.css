@@ -17,7 +17,14 @@ svg:hover {
 .film:hover {
   fill: yellow;
 }
+/*#icon-185-clipboard:hover {
+  fill: pink;
+}*/
 
-#check {
-  fill: purple !important;
+.check {
+  fill: blue;
+}
+
+#check:hover {
+  fill: #FFFF00;
 }
