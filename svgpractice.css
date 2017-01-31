@@ -1,4 +1,4 @@
-.icon {
+svg {
   display: inline-block;
   width: 10em;
   height: 10em;
@@ -7,10 +7,17 @@
   fill: red;
 }
 
-.icon:hover {
+svg:hover {
   fill: blue;
 }
 
 .film {
   fill: green;
+}
+.film:hover {
+  fill: yellow;
+}
+
+#check {
+  fill: purple !important;
 }

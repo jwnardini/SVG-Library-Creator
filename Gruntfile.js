@@ -4,6 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     svgstore: {
       options: {
+        // includeTitleElement: false,
         cleanup: ['fill', false],
         formatting: {
           indent_size : 2
