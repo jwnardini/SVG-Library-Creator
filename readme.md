@@ -9,7 +9,7 @@
 ###ADDITIONAL NOTES:
 
 Want to add hoverstate to specific path? You can't! You can, however, have more than one `<use>` tag inside and `<svg>` tag. What does this mean? TURN YOUR PATHS INTO THEIR OWN SYMBOLS!
-``
+
 `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" enable-background="new 0 0 100 100" xml:space="preserve" style="display: none;">
   <defs>
 
