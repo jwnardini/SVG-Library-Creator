@@ -47,4 +47,6 @@ becomes:
   <use class="check" xlink:href="#clipboard-check"></use>
 </svg>`
 
+Now you can style each path individually in your css, using `.frame{}` and `.check{}`!
+
 [See it on codepen.io](http://codepen.io/jwnardini/pen/VPQroE)
